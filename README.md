@@ -5,6 +5,8 @@ The OSINT project, the main idea of which is to collect all the possible Google 
 Usage example:
 --------------
 ```
+git clone https://github.com/trhacknon/Fast-Google-Dorks-Scan
+cd Fast-Google-Dorks-Scan
 chmod +x FGDS.sh
 ./FGDS.sh megacorp.one
 ```
